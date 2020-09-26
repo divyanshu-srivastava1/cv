@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4.5rem;
+  color: #407088;
+  margin-top: 0;
+  margin-bottom: 2px;
+  margin: 0 auto;
+  padding: 5px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Neuton', serif;
+  color: #407088;
+  font-weight: bold;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Playfair Display', serif;
+}
+
+a {
+  color: #11999E;
+}
+
+.topc {
+  background-color: #cffffe;
+  padding-top: 180px;
+  position: relative;
+}
+
+.profile{
+  width: 50%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: auto;
+}
+
+.middlec{
+
+  padding-bottom: 60px;
+}
+
+.bottomc{
+  background-color: #fbecec;
+  padding-top: 30px;
+  padding-bottom: 16px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 140px;
+  top: 360px;
+}
+
+.mountain {
+  height: 400px;
+}
+
+.Skills{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  margin-bottom: 80px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.dp {
+  height: 200px;
+  width: 200px;
+}
+
+.dsa {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.webd {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.wd{
+  padding-top: 20px:
+}
+
+.linkedin{
+  width: 3%;
+}
+
+p{
+  font-family: 'Baloo Tammudu 2', cursive;
+  color: #40514E;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.contact-me{
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-width: 7px;
+  width: 5%;
+  border-color: #808080;
+}
+
+.btn {
+	box-shadow:inset 0px 25px 19px 0px #07afd1;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
